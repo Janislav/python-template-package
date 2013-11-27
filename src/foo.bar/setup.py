@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-from distutils.core import setup
-
+from setuptools import setup
 setup(
     name='foo.bar',
     version='0.1.0',
